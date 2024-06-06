@@ -34,3 +34,6 @@ The BioInstruct dataset is available through [huggingface dataset](https://huggi
     eprint = {https://academic.oup.com/jamia/advance-article-pdf/doi/10.1093/jamia/ocae122/58084577/ocae122.pdf},
 }
 ```
+
+## Contribute
+Have a specific task and instruction you'd like an LLM to perform in a clinical setting? Raise a new issue here! Your contributions will aid in refining LLMs to be more effective and relevant in healthcare environments.
